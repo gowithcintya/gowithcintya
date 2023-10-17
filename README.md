@@ -18,10 +18,10 @@
 
 ### Habilidades
 
-![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin&logoColor=a37ade)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=30A3DC)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=a37ade)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC)
+[![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin&logoColor=a37ade)](https://kotlinlang.org/docs/home.html)
+[![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=30A3DC)](https://developer.android.com/docs?hl=pt-br)
+[![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=a37ade)](https://dart.dev/guides)
+[![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC)](https://docs.flutter.dev/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=a37ade)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
