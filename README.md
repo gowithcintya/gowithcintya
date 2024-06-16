@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a37ade&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cintya+Gomes!;I'm+a+Software+Engineer.;Welcome+to+my+profile!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a37ade&size=40&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Cintya+Gomes.;I'm+a+Software+Engineer.;Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
 ---
 ## Hello, World! Que tal trocarmos experiências?
