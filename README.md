@@ -36,14 +36,14 @@
 <table>
   <thead>
     <tr align="left">
-      <th>Data</th>
-      <th>Título</th>
+      <th>Date</th>
+      <th>Title</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
-      <td>21/08/2023</td>
+      <td>08/21/2023</td>
       <td>Developing female empowerment in the mobile area</td>
       <td align="center">
         <a href="https://www.dio.me/articles/desenvolvendo-o-empoderamento-feminino-na-area-mobile">
