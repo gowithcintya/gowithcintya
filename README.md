@@ -13,8 +13,8 @@
 
 ### Connect with me!
 
-[![Instagram](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-a37ade?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/cintyaggomes/)
+[![Instagram](https://img.shields.io/badge/-Instagram-a37ade?style=for-the-badge)](https://www.instagram.com/gowithcintya/)
 
 ### Skills
 
@@ -47,7 +47,7 @@
       <td>Developing female empowerment in the mobile area</td>
       <td align="center">
         <a href="https://www.dio.me/articles/desenvolvendo-o-empoderamento-feminino-na-area-mobile">
-           <img align="center" alt="Read Article" src="https://img.shields.io/badge/Ler%20Artigo-a37ade?style=for-the-badge">
+           <img align="center" alt="Read Article" src="https://img.shields.io/badge/Read%20Article-a37ade?style=for-the-badge">
         </a>
       </td>
     </tr>
