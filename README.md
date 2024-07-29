@@ -36,17 +36,15 @@
 <table>
   <thead>
     <tr align="left">
-      <th>Date</th>
       <th>Title</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
-      <td>08/21/2023</td>
       <td>Developing female empowerment in the mobile area</td>
       <td align="center">
-        <a href="https://www.dio.me/articles/desenvolvendo-o-empoderamento-feminino-na-area-mobile">
+        <a href="https://www.linkedin.com/pulse/mulheres-setor-mobile-caminhos-para-evolu%C3%A7%C3%A3o-e-cintya-gomes-bavkf/?trackingId=eB2GpMcsTi%2BnaGvhoGRWvw%3D%3D">
            <img align="center" alt="Read Article" src="https://img.shields.io/badge/Read%20Article-a37ade?style=for-the-badge">
         </a>
       </td>
