@@ -31,7 +31,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gowithcintya&layout=compact&bg_color=000&border_color=a37ade&title_color=30A3DC&text_color=FFF)
 
-### Discover my article!
+### Check out my article!
 
 <table>
   <thead>
