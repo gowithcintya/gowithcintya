@@ -5,7 +5,7 @@
 
 ![cat-typing](https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif)
 
-- I have been a Software Engineer specializing in Android for almost 4 years at Invillia, and I am passionate about mobile development, artificial intelligence, and machine learning.
+- I have been a Software Engineer specializing in Android for over 4 years at Invillia and OLX, and I am passionate about mobile development, artificial intelligence, and machine learning.
 - I have a degree in Computer Systems from Universidade Federal Fluminense.
 - I am an administrative technician and fluent in English, having graduated from SENAC and CCAA, respectively.
 - For over 7 years, I have been an ambassador of the social project `Guardians Solidários`.
